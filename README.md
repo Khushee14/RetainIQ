@@ -1,8 +1,6 @@
-# RetainIQ — AI-Powered Customer Churn & Employee Attrition Intelligence
+# RetainIQ — Customer Churn & Employee Attrition Intelligence
 
-RetainIQ is a dual-module analytics platform designed to help businesses understand customer churn and employee attrition, identify at-risk customers and employees, and make data-driven retention decisions.
-
-Built with Python and Streamlit, RetainIQ combines interactive dashboards, risk scoring, SQL-based insights, retention recommendations, and reporting capabilities in one unified application.
+An interactive business analytics platform built with Python, Streamlit, SQL, and Power BI to analyze customer churn and employee attrition, identify risk levels, and generate actionable retention recommendations.
 
 ## 🚀 Key Features
 
